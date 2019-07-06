@@ -1,6 +1,0 @@
-[submodule "deps"]
-	path = deps
-	url = https://github.com/SinisterRectus/Discordia
-[submodule "deps/Discordia"]
-	path = deps/Discordia
-	url = https://github.com/SinisterRectus/Discordia
