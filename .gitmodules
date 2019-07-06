@@ -1,0 +1,3 @@
+[submodule "deps/discordia/Discordia"]
+	path = deps/discordia/Discordia
+	url = https://github.com/SinisterRectus/Discordia
