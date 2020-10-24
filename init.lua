@@ -1,11 +1,20 @@
-local discordia = require('discordia')
-local client = discordia.Client()
+-- Define Global Table
+_G.Daemen = {}
 
+-- Import Main Discordia module
+_G.Daemen.Discordia = require('discordia')
 
-client:on('ready', function()
-	print('Logged in as '.. client.user.username)
-end)
+-- Load Deps
+require('./daemen_deps')
 
-print("test")
+-- Load Helpers
+require('./helpers')
 
-client:run('Bot '..settings.token)
+-- Initalise Client
+_G.Daemen.Client = _G.Daemen.Discordia.Client()
+
+-- Load Modules
+_G.Daemen.Functions.LoadModules()
+
+-- Start the bot
+require('./bot')

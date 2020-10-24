@@ -1,0 +1,2 @@
+luvit init.lua
+pause
