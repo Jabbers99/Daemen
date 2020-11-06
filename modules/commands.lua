@@ -37,7 +37,7 @@ AddCommand("ban", function(msg, args)
 
 	end
 end, 5)
-AddCommand("mute", function(msg)
+AddCommand("mute", function(msg, args)
 	args[1] = nil
 	
 	if not args[#args]:match('<@!?(%d+)>') then reason = args[#args] end
