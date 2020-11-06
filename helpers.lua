@@ -46,3 +46,22 @@ _G.Daemen.Commands = {}
 function _G.Daemen.Functions.AddCommand(cmd, callback, args)
     _G.Daemen.Commands[_G.Daemen.Settings.Prefix..cmd] = {callback, args}
 end
+
+
+function _G.Daemen.Functions.FindMentions(args)
+    local members = {}
+    for _, arg in pairs(args) do
+        local mention = arg:match('<@!?(%d+)>')
+        if mention then
+            table.insert(members, mention)
+        else
+            
+        end
+    end
+    return members
+end
+
+
+function _G.Daemen.Functions.MakeSafe(str)
+    return str:gsub("[`@]", "")
+end
