@@ -6,3 +6,9 @@
 * Music
 * Memes
 * Image Manipulation
+
+### Commands
+* Kick
+* Ban
+* Mute
+* Reminders
