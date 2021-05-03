@@ -1,5 +1,6 @@
 local client = _G.Daemen.Client
 local commands = _G.Daemen.Commands
+local fs = _G.Daemen.Deps.FS
 -- Load helper extensions
 _G.Daemen.Discordia.extensions()
 client:on("ready", function()
@@ -7,28 +8,23 @@ client:on("ready", function()
     print(client.user.id)
 end)
 client:on("messageCreate", function(msg)
-    -- Setup commands
-    local content = msg.content:lower()
-    local args = content:split(" ")
-    local cmd = (commands[args[1]] and commands[args[1]][2] and args[1]) or (commands[content] and not commands[content][2] and content) or false
-    if cmd then
-    	if commands[cmd][2] then
-    		if #args ~= commands[cmd][2] + 1 and (commands[cmd][2] ~= 0 or #args == 1) then
-    			print(commands[cmd][2], #args)
-    			msg:reply("Insufficient arguments!")
-    			return
-    		end
-    	end
-    	local cmdid = cmd:sub(2)
-    	if _G.Daemen.Permissions[cmdid] then
-    		local member = msg.guild:getMember(msg.author.id)
-    		for _, perm in pairs(_G.Daemen.Permissions[cmdid]) do
-    			if not member:hasPermission(perm) then msg:reply("You don't seem to have permissions for that!") return end
-    		end
-    	end
-        local output = commands[cmd][1](msg, args)
-        if output then
-            msg:reply(output)
-        end
-    end
+
 end)
+local eventsPrefix = "./events/"
+for _, file in pairs(fs.readdirSync(eventsPrefix)) do
+    local filename = file:match("(%w+)%.lua")
+    local code = fs.readFileSync(eventsPrefix..file)
+
+
+
+    client:on(filename, function(...)
+        local sandbox = setmetatable({..., commands = commands}, { __index = _G })
+
+        local fn, syntaxError = load(code, 'Daemen.Event.'..filename, 't', sandbox)
+        if not fn then return print(syntaxError) end -- handle syntax errors
+        
+        local success, runtimeError = pcall(fn, ...) -- run the code
+        if not success then return print(runtimeError) end -- handle runtime errors      
+    end)
+
+end
