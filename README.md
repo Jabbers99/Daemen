@@ -1,4 +1,4 @@
-<img src="https://cdn.discordapp.com/attachments/752290224247406735/838873708785041498/download.png" width=128 />
+<img src="./media/images/daemen.png" width=128 />
 
 # Daemen 
 
@@ -9,7 +9,7 @@
 * Memes
 
 ### Commands
-| Command Name | Usage | Description |
+| Name | Usage | Description |
 | --- | --- | --- |
 | Kick | !kick @users | Kicks a user(s). |
 | Ban | !ban @users | Bans a user(s). |
