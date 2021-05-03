@@ -1,5 +1,6 @@
-local msg = select(1, ...)
+
 -- Setup commands
+local msg = select(1, ...)
 local content = msg.content:lower()
 local args = content:split(" ")
 local cmd = (commands[args[1]] and commands[args[1]][2] and args[1]) or (commands[content] and not commands[content][2] and content) or false
