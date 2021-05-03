@@ -20,4 +20,4 @@ _G.Daemen.Functions.LoadModules()
 _G.Daemen.Reminders = {}
 
 -- Start the bot
-require('./bot')
+_G.Daemen.Client:run('Bot '.._G.Daemen.Deps.Settings.Token)

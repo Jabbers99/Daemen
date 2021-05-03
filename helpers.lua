@@ -43,8 +43,8 @@ end
 
 -- Load commands
 _G.Daemen.Commands = {}
-function _G.Daemen.Functions.AddCommand(cmd, callback, args)
-    _G.Daemen.Commands[_G.Daemen.Settings.Prefix..cmd] = {callback, args}
+function _G.Daemen.Functions.AddCommand(cmd, callback, args, aliases)
+    _G.Daemen.Commands[_G.Daemen.Settings.Prefix..cmd] = {callback, args, aliases or {}}
 end
 
 
@@ -83,4 +83,10 @@ function _G.Daemen.Functions.ParseHumanTime(str)
 end
 function _G.Daemen.Functions.firstToUpper(str)
     return (str:gsub("^%l", string.upper))
+end
+function _G.Daemen.Functions.GetDefaultFooter(u)
+    return {
+        text = "Requested by "..u.tag,
+        icon_url = u.avatarURL
+    }
 end
