@@ -9,7 +9,6 @@
 * Memes
 
 ### Commands
-| --- | --- | --- |
 | Command Name | Usage | Description |
 | --- | --- | --- |
 | Kick | !kick @users | Kicks a user(s). |
