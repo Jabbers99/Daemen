@@ -2,7 +2,10 @@ local client = _G.Daemen.Client
 local commands = _G.Daemen.Commands
 -- Load helper extensions
 _G.Daemen.Discordia.extensions()
+client:on("ready", function()
 
+    print(client.user.id)
+end)
 client:on("messageCreate", function(msg)
     -- Setup commands
     local content = msg.content:lower()

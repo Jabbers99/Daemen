@@ -16,5 +16,8 @@ _G.Daemen.Client = _G.Daemen.Discordia.Client()
 -- Load Modules
 _G.Daemen.Functions.LoadModules()
 
+-- Create Reminder Table
+_G.Daemen.Reminders = {}
+
 -- Start the bot
 require('./bot')

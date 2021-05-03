@@ -1,2 +1,1 @@
-luvit init.lua
-pause
+start cmd /k luvit init.lua

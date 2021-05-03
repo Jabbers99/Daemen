@@ -374,3 +374,451 @@
 2020-10-27 12:11:20 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
 2020-10-27 12:11:20 | [INFO]    | Shard 0 : Received HELLO
 2020-10-27 12:11:21 | [INFO]    | Shard 0 : Received READY
+2021-01-06 20:30:38 | [INFO]    | Discordia 2.8.4
+2021-01-06 20:30:38 | [INFO]    | Connecting to Discord...
+2021-01-06 20:30:38 | [INFO]    | Authenticated as Daemen#5143
+2021-01-06 20:30:39 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-06 20:30:39 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-06 20:30:39 | [INFO]    | Shard 0 : Received HELLO
+2021-01-06 20:30:39 | [INFO]    | Shard 0 : Received READY
+2021-01-06 20:30:54 | [INFO]    | Discordia 2.8.4
+2021-01-06 20:30:54 | [INFO]    | Connecting to Discord...
+2021-01-06 20:30:55 | [INFO]    | Authenticated as Daemen#5143
+2021-01-06 20:30:55 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-06 20:30:55 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-06 20:30:55 | [INFO]    | Shard 0 : Received HELLO
+2021-01-06 20:30:55 | [INFO]    | Shard 0 : Received READY
+2021-01-06 20:36:54 | [INFO]    | Discordia 2.8.4
+2021-01-06 20:36:54 | [INFO]    | Connecting to Discord...
+2021-01-06 20:36:55 | [INFO]    | Authenticated as Daemen#5143
+2021-01-06 20:36:55 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-06 20:36:55 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-06 20:36:55 | [INFO]    | Shard 0 : Received HELLO
+2021-01-06 20:36:55 | [INFO]    | Shard 0 : Received READY
+2021-01-06 20:39:21 | [INFO]    | Discordia 2.8.4
+2021-01-06 20:39:21 | [INFO]    | Connecting to Discord...
+2021-01-06 20:39:22 | [INFO]    | Authenticated as Daemen#5143
+2021-01-06 20:39:22 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-06 20:39:22 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-06 20:39:22 | [INFO]    | Shard 0 : Received HELLO
+2021-01-06 20:39:22 | [INFO]    | Shard 0 : Received READY
+2021-01-06 20:39:58 | [INFO]    | Discordia 2.8.4
+2021-01-06 20:39:58 | [INFO]    | Connecting to Discord...
+2021-01-06 20:39:58 | [INFO]    | Authenticated as Daemen#5143
+2021-01-06 20:39:58 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-06 20:39:58 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-06 20:39:58 | [INFO]    | Shard 0 : Received HELLO
+2021-01-06 20:39:58 | [INFO]    | Shard 0 : Received READY
+2021-01-06 20:40:17 | [INFO]    | Discordia 2.8.4
+2021-01-06 20:40:17 | [INFO]    | Connecting to Discord...
+2021-01-06 20:40:18 | [INFO]    | Authenticated as Daemen#5143
+2021-01-06 20:40:18 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-06 20:40:18 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-06 20:40:18 | [INFO]    | Shard 0 : Received HELLO
+2021-01-06 20:40:18 | [INFO]    | Shard 0 : Received READY
+2021-01-06 20:40:35 | [INFO]    | Discordia 2.8.4
+2021-01-06 20:40:35 | [INFO]    | Connecting to Discord...
+2021-01-06 20:40:35 | [INFO]    | Authenticated as Daemen#5143
+2021-01-06 20:40:35 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-06 20:40:35 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-06 20:40:35 | [INFO]    | Shard 0 : Received HELLO
+2021-01-06 20:40:35 | [INFO]    | Shard 0 : Received READY
+2021-01-06 20:40:53 | [INFO]    | Discordia 2.8.4
+2021-01-06 20:40:53 | [INFO]    | Connecting to Discord...
+2021-01-06 20:40:53 | [INFO]    | Authenticated as Daemen#5143
+2021-01-06 20:40:53 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-06 20:40:54 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-06 20:40:54 | [INFO]    | Shard 0 : Received HELLO
+2021-01-06 20:40:54 | [INFO]    | Shard 0 : Received READY
+2021-01-06 20:41:23 | [INFO]    | Discordia 2.8.4
+2021-01-06 20:41:23 | [INFO]    | Connecting to Discord...
+2021-01-06 20:41:23 | [INFO]    | Authenticated as Daemen#5143
+2021-01-06 20:41:23 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-06 20:41:23 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-06 20:41:23 | [INFO]    | Shard 0 : Received HELLO
+2021-01-06 20:41:24 | [INFO]    | Shard 0 : Received READY
+2021-01-06 20:45:39 | [INFO]    | Discordia 2.8.4
+2021-01-06 20:45:39 | [INFO]    | Connecting to Discord...
+2021-01-06 20:45:39 | [INFO]    | Authenticated as Daemen#5143
+2021-01-06 20:45:39 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-06 20:45:39 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-06 20:45:39 | [INFO]    | Shard 0 : Received HELLO
+2021-01-06 20:45:40 | [INFO]    | Shard 0 : Received READY
+2021-01-06 20:46:08 | [INFO]    | Discordia 2.8.4
+2021-01-06 20:46:08 | [INFO]    | Connecting to Discord...
+2021-01-06 20:46:08 | [INFO]    | Authenticated as Daemen#5143
+2021-01-06 20:46:08 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-06 20:46:09 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-06 20:46:09 | [INFO]    | Shard 0 : Received HELLO
+2021-01-06 20:46:09 | [INFO]    | Shard 0 : Received READY
+2021-01-06 20:46:15 | [INFO]    | Discordia 2.8.4
+2021-01-06 20:46:15 | [INFO]    | Connecting to Discord...
+2021-01-06 20:46:15 | [INFO]    | Authenticated as Daemen#5143
+2021-01-06 20:46:15 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-06 20:46:16 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-06 20:46:16 | [INFO]    | Shard 0 : Received HELLO
+2021-01-06 20:46:16 | [INFO]    | Shard 0 : Received READY
+2021-01-06 20:46:39 | [INFO]    | Discordia 2.8.4
+2021-01-06 20:46:39 | [INFO]    | Connecting to Discord...
+2021-01-06 20:46:39 | [INFO]    | Authenticated as Daemen#5143
+2021-01-06 20:46:39 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-06 20:46:40 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-06 20:46:40 | [INFO]    | Shard 0 : Received HELLO
+2021-01-06 20:46:40 | [INFO]    | Shard 0 : Received READY
+2021-01-06 20:47:12 | [INFO]    | Discordia 2.8.4
+2021-01-06 20:47:12 | [INFO]    | Connecting to Discord...
+2021-01-06 20:47:12 | [INFO]    | Authenticated as Daemen#5143
+2021-01-06 20:47:12 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-06 20:47:13 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-06 20:47:13 | [INFO]    | Shard 0 : Received HELLO
+2021-01-06 20:47:13 | [INFO]    | Shard 0 : Received READY
+2021-01-06 20:47:30 | [INFO]    | Discordia 2.8.4
+2021-01-06 20:47:30 | [INFO]    | Connecting to Discord...
+2021-01-06 20:47:31 | [INFO]    | Authenticated as Daemen#5143
+2021-01-06 20:47:31 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-06 20:47:31 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-06 20:47:31 | [INFO]    | Shard 0 : Received HELLO
+2021-01-06 20:47:31 | [INFO]    | Shard 0 : Received READY
+2021-01-06 20:47:55 | [INFO]    | Discordia 2.8.4
+2021-01-06 20:47:55 | [INFO]    | Connecting to Discord...
+2021-01-06 20:47:56 | [INFO]    | Authenticated as Daemen#5143
+2021-01-06 20:47:56 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-06 20:47:56 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-06 20:47:56 | [INFO]    | Shard 0 : Received HELLO
+2021-01-06 20:47:56 | [INFO]    | Shard 0 : Received READY
+2021-01-06 20:48:09 | [INFO]    | Discordia 2.8.4
+2021-01-06 20:48:09 | [INFO]    | Connecting to Discord...
+2021-01-06 20:48:09 | [INFO]    | Authenticated as Daemen#5143
+2021-01-06 20:48:09 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-06 20:48:09 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-06 20:48:09 | [INFO]    | Shard 0 : Received HELLO
+2021-01-06 20:48:10 | [INFO]    | Shard 0 : Received READY
+2021-01-06 20:48:26 | [INFO]    | Discordia 2.8.4
+2021-01-06 20:48:26 | [INFO]    | Connecting to Discord...
+2021-01-06 20:48:26 | [INFO]    | Authenticated as Daemen#5143
+2021-01-06 20:48:26 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-06 20:48:26 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-06 20:48:26 | [INFO]    | Shard 0 : Received HELLO
+2021-01-06 20:48:26 | [INFO]    | Shard 0 : Received READY
+2021-01-06 20:48:47 | [INFO]    | Discordia 2.8.4
+2021-01-06 20:48:47 | [INFO]    | Connecting to Discord...
+2021-01-06 20:48:48 | [INFO]    | Authenticated as Daemen#5143
+2021-01-06 20:48:48 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-06 20:48:48 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-06 20:48:48 | [INFO]    | Shard 0 : Received HELLO
+2021-01-06 20:48:48 | [INFO]    | Shard 0 : Received READY
+2021-01-06 20:49:08 | [INFO]    | Discordia 2.8.4
+2021-01-06 20:49:08 | [INFO]    | Connecting to Discord...
+2021-01-06 20:49:08 | [INFO]    | Authenticated as Daemen#5143
+2021-01-06 20:49:08 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-06 20:49:08 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-06 20:49:08 | [INFO]    | Shard 0 : Received HELLO
+2021-01-06 20:49:09 | [INFO]    | Shard 0 : Received READY
+2021-01-06 20:49:34 | [INFO]    | Discordia 2.8.4
+2021-01-06 20:49:34 | [INFO]    | Connecting to Discord...
+2021-01-06 20:49:34 | [INFO]    | Authenticated as Daemen#5143
+2021-01-06 20:49:34 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-06 20:49:34 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-06 20:49:34 | [INFO]    | Shard 0 : Received HELLO
+2021-01-06 20:49:35 | [INFO]    | Shard 0 : Received READY
+2021-01-06 22:04:17 | [INFO]    | Discordia 2.8.4
+2021-01-06 22:04:17 | [INFO]    | Connecting to Discord...
+2021-01-06 22:04:17 | [INFO]    | Authenticated as Daemen#5143
+2021-01-06 22:04:18 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-06 22:04:18 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-06 22:04:18 | [INFO]    | Shard 0 : Received HELLO
+2021-01-06 22:04:18 | [INFO]    | Shard 0 : Received READY
+2021-01-06 22:04:55 | [INFO]    | Discordia 2.8.4
+2021-01-06 22:04:55 | [INFO]    | Connecting to Discord...
+2021-01-06 22:04:55 | [INFO]    | Authenticated as Daemen#5143
+2021-01-06 22:04:55 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-06 22:04:55 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-06 22:04:55 | [INFO]    | Shard 0 : Received HELLO
+2021-01-06 22:04:55 | [INFO]    | Shard 0 : Received READY
+2021-01-06 22:05:33 | [INFO]    | Discordia 2.8.4
+2021-01-06 22:05:33 | [INFO]    | Connecting to Discord...
+2021-01-06 22:05:33 | [INFO]    | Authenticated as Daemen#5143
+2021-01-06 22:05:33 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-06 22:05:33 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-06 22:05:33 | [INFO]    | Shard 0 : Received HELLO
+2021-01-06 22:05:34 | [INFO]    | Shard 0 : Received READY
+2021-01-06 22:09:49 | [INFO]    | Discordia 2.8.4
+2021-01-06 22:09:49 | [INFO]    | Connecting to Discord...
+2021-01-06 22:09:50 | [INFO]    | Authenticated as Daemen#5143
+2021-01-06 22:09:50 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-06 22:09:50 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-06 22:09:50 | [INFO]    | Shard 0 : Received HELLO
+2021-01-06 22:09:50 | [INFO]    | Shard 0 : Received READY
+2021-01-06 22:11:19 | [INFO]    | Discordia 2.8.4
+2021-01-06 22:11:19 | [INFO]    | Connecting to Discord...
+2021-01-06 22:11:20 | [INFO]    | Authenticated as Daemen#5143
+2021-01-06 22:11:20 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-06 22:11:20 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-06 22:11:20 | [INFO]    | Shard 0 : Received HELLO
+2021-01-06 22:11:20 | [INFO]    | Shard 0 : Received READY
+2021-01-06 22:12:09 | [INFO]    | Discordia 2.8.4
+2021-01-06 22:12:09 | [INFO]    | Connecting to Discord...
+2021-01-06 22:12:09 | [INFO]    | Authenticated as Daemen#5143
+2021-01-06 22:12:09 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-06 22:12:09 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-06 22:12:09 | [INFO]    | Shard 0 : Received HELLO
+2021-01-06 22:12:09 | [INFO]    | Shard 0 : Received READY
+2021-01-06 22:12:37 | [INFO]    | Discordia 2.8.4
+2021-01-06 22:12:37 | [INFO]    | Connecting to Discord...
+2021-01-06 22:12:37 | [INFO]    | Authenticated as Daemen#5143
+2021-01-06 22:12:37 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-06 22:12:37 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-06 22:12:37 | [INFO]    | Shard 0 : Received HELLO
+2021-01-06 22:12:38 | [INFO]    | Shard 0 : Received READY
+2021-01-06 22:13:09 | [INFO]    | Discordia 2.8.4
+2021-01-06 22:13:09 | [INFO]    | Connecting to Discord...
+2021-01-06 22:13:09 | [INFO]    | Authenticated as Daemen#5143
+2021-01-06 22:13:09 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-06 22:13:09 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-06 22:13:09 | [INFO]    | Shard 0 : Received HELLO
+2021-01-06 22:13:09 | [INFO]    | Shard 0 : Received READY
+2021-01-06 22:13:31 | [INFO]    | Discordia 2.8.4
+2021-01-06 22:13:31 | [INFO]    | Connecting to Discord...
+2021-01-06 22:13:31 | [INFO]    | Authenticated as Daemen#5143
+2021-01-06 22:13:31 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-06 22:13:31 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-06 22:13:31 | [INFO]    | Shard 0 : Received HELLO
+2021-01-06 22:13:31 | [INFO]    | Shard 0 : Received READY
+2021-01-06 22:14:00 | [INFO]    | Discordia 2.8.4
+2021-01-06 22:14:00 | [INFO]    | Connecting to Discord...
+2021-01-06 22:14:00 | [INFO]    | Authenticated as Daemen#5143
+2021-01-06 22:14:00 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-06 22:14:00 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-06 22:14:00 | [INFO]    | Shard 0 : Received HELLO
+2021-01-06 22:14:00 | [INFO]    | Shard 0 : Received READY
+2021-01-06 22:14:13 | [INFO]    | Discordia 2.8.4
+2021-01-06 22:14:13 | [INFO]    | Connecting to Discord...
+2021-01-06 22:14:14 | [INFO]    | Authenticated as Daemen#5143
+2021-01-06 22:14:14 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-06 22:14:14 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-06 22:14:14 | [INFO]    | Shard 0 : Received HELLO
+2021-01-06 22:14:14 | [INFO]    | Shard 0 : Received READY
+2021-01-06 22:14:28 | [INFO]    | Discordia 2.8.4
+2021-01-06 22:14:28 | [INFO]    | Connecting to Discord...
+2021-01-06 22:14:28 | [INFO]    | Authenticated as Daemen#5143
+2021-01-06 22:14:28 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-06 22:14:28 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-06 22:14:28 | [INFO]    | Shard 0 : Received HELLO
+2021-01-06 22:14:29 | [INFO]    | Shard 0 : Received READY
+2021-01-06 22:15:22 | [INFO]    | Discordia 2.8.4
+2021-01-06 22:15:22 | [INFO]    | Connecting to Discord...
+2021-01-06 22:15:22 | [INFO]    | Authenticated as Daemen#5143
+2021-01-06 22:15:22 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-06 22:15:22 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-06 22:15:22 | [INFO]    | Shard 0 : Received HELLO
+2021-01-06 22:15:22 | [INFO]    | Shard 0 : Received READY
+2021-01-07 11:43:55 | [INFO]    | Discordia 2.8.4
+2021-01-07 11:43:55 | [INFO]    | Connecting to Discord...
+2021-01-07 11:43:55 | [INFO]    | Authenticated as Daemen#5143
+2021-01-07 11:43:56 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-07 11:43:56 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-07 11:43:56 | [INFO]    | Shard 0 : Received HELLO
+2021-01-07 11:43:56 | [INFO]    | Shard 0 : Received READY
+2021-01-07 11:44:53 | [INFO]    | Discordia 2.8.4
+2021-01-07 11:44:53 | [INFO]    | Connecting to Discord...
+2021-01-07 11:44:53 | [INFO]    | Authenticated as Daemen#5143
+2021-01-07 11:44:53 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-07 11:44:53 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-07 11:44:53 | [INFO]    | Shard 0 : Received HELLO
+2021-01-07 11:44:54 | [INFO]    | Shard 0 : Received READY
+2021-01-07 11:45:04 | [INFO]    | Discordia 2.8.4
+2021-01-07 11:45:04 | [INFO]    | Connecting to Discord...
+2021-01-07 11:45:04 | [INFO]    | Authenticated as Daemen#5143
+2021-01-07 11:45:04 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-01-07 11:45:04 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-01-07 11:45:04 | [INFO]    | Shard 0 : Received HELLO
+2021-01-07 11:45:04 | [INFO]    | Shard 0 : Received READY
+2021-05-03 18:16:32 | [INFO]    | Discordia 2.8.4
+2021-05-03 18:16:32 | [INFO]    | Connecting to Discord...
+2021-05-03 18:16:33 | [INFO]    | Authenticated as Daemen#5143
+2021-05-03 18:16:33 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-05-03 18:16:33 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-05-03 18:16:33 | [INFO]    | Shard 0 : Received HELLO
+2021-05-03 18:16:34 | [INFO]    | Shard 0 : Received READY
+2021-05-03 18:17:49 | [INFO]    | Discordia 2.8.4
+2021-05-03 18:17:49 | [INFO]    | Connecting to Discord...
+2021-05-03 18:17:49 | [INFO]    | Authenticated as Daemen#5143
+2021-05-03 18:17:49 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-05-03 18:17:50 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-05-03 18:17:50 | [INFO]    | Shard 0 : Received HELLO
+2021-05-03 18:17:50 | [INFO]    | Shard 0 : Received READY
+2021-05-03 18:23:33 | [INFO]    | Discordia 2.8.4
+2021-05-03 18:23:33 | [INFO]    | Connecting to Discord...
+2021-05-03 18:23:33 | [INFO]    | Authenticated as Daemen#5143
+2021-05-03 18:23:33 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-05-03 18:23:34 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-05-03 18:23:34 | [INFO]    | Shard 0 : Received HELLO
+2021-05-03 18:23:34 | [INFO]    | Shard 0 : Received READY
+2021-05-03 18:24:13 | [INFO]    | Discordia 2.8.4
+2021-05-03 18:24:13 | [INFO]    | Connecting to Discord...
+2021-05-03 18:24:14 | [INFO]    | Authenticated as Daemen#5143
+2021-05-03 18:24:14 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-05-03 18:24:14 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-05-03 18:24:14 | [INFO]    | Shard 0 : Received HELLO
+2021-05-03 18:24:14 | [INFO]    | Shard 0 : Received READY
+2021-05-03 18:25:24 | [INFO]    | Discordia 2.8.4
+2021-05-03 18:25:24 | [INFO]    | Connecting to Discord...
+2021-05-03 18:25:24 | [INFO]    | Authenticated as Daemen#5143
+2021-05-03 18:25:24 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-05-03 18:25:25 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-05-03 18:25:25 | [INFO]    | Shard 0 : Received HELLO
+2021-05-03 18:25:25 | [INFO]    | Shard 0 : Received READY
+2021-05-03 18:27:55 | [INFO]    | Discordia 2.8.4
+2021-05-03 18:27:55 | [INFO]    | Connecting to Discord...
+2021-05-03 18:27:55 | [INFO]    | Authenticated as Daemen#5143
+2021-05-03 18:27:55 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-05-03 18:27:56 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-05-03 18:27:56 | [INFO]    | Shard 0 : Received HELLO
+2021-05-03 18:27:56 | [INFO]    | Shard 0 : Received READY
+2021-05-03 18:32:06 | [INFO]    | Discordia 2.8.4
+2021-05-03 18:32:06 | [INFO]    | Connecting to Discord...
+2021-05-03 18:32:06 | [INFO]    | Authenticated as Daemen#5143
+2021-05-03 18:32:06 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-05-03 18:32:07 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-05-03 18:32:07 | [INFO]    | Shard 0 : Received HELLO
+2021-05-03 18:32:07 | [INFO]    | Shard 0 : Received READY
+2021-05-03 18:32:30 | [INFO]    | Discordia 2.8.4
+2021-05-03 18:32:30 | [INFO]    | Connecting to Discord...
+2021-05-03 18:32:31 | [INFO]    | Authenticated as Daemen#5143
+2021-05-03 18:32:31 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-05-03 18:32:31 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-05-03 18:32:31 | [INFO]    | Shard 0 : Received HELLO
+2021-05-03 18:32:31 | [INFO]    | Shard 0 : Received READY
+2021-05-03 18:32:34 | [ERROR]   | 400 - Bad Request : POST https://discord.com/api/v7/channels/828958185729032225/messages
+2021-05-03 18:33:00 | [INFO]    | Discordia 2.8.4
+2021-05-03 18:33:00 | [INFO]    | Connecting to Discord...
+2021-05-03 18:33:01 | [INFO]    | Authenticated as Daemen#5143
+2021-05-03 18:33:01 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-05-03 18:33:01 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-05-03 18:33:01 | [INFO]    | Shard 0 : Received HELLO
+2021-05-03 18:33:01 | [INFO]    | Shard 0 : Received READY
+2021-05-03 18:33:05 | [ERROR]   | 400 - Bad Request : POST https://discord.com/api/v7/channels/828958185729032225/messages
+2021-05-03 18:34:19 | [INFO]    | Discordia 2.8.4
+2021-05-03 18:34:19 | [INFO]    | Connecting to Discord...
+2021-05-03 18:34:19 | [INFO]    | Authenticated as Daemen#5143
+2021-05-03 18:34:19 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-05-03 18:34:19 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-05-03 18:34:19 | [INFO]    | Shard 0 : Received HELLO
+2021-05-03 18:34:20 | [INFO]    | Shard 0 : Received READY
+2021-05-03 18:34:23 | [ERROR]   | 400 - Bad Request : POST https://discord.com/api/v7/channels/828958185729032225/messages
+2021-05-03 18:48:17 | [INFO]    | Discordia 2.8.4
+2021-05-03 18:48:17 | [INFO]    | Connecting to Discord...
+2021-05-03 18:48:17 | [INFO]    | Authenticated as Daemen#5143
+2021-05-03 18:48:17 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-05-03 18:48:18 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-05-03 18:48:18 | [INFO]    | Shard 0 : Received HELLO
+2021-05-03 18:48:18 | [INFO]    | Shard 0 : Received READY
+2021-05-03 18:48:25 | [ERROR]   | 400 - Bad Request : POST https://discord.com/api/v7/channels/828958185729032225/messages
+2021-05-03 18:49:54 | [INFO]    | Discordia 2.8.4
+2021-05-03 18:49:54 | [INFO]    | Connecting to Discord...
+2021-05-03 18:49:55 | [INFO]    | Authenticated as Daemen#5143
+2021-05-03 18:49:55 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-05-03 18:49:55 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-05-03 18:49:55 | [INFO]    | Shard 0 : Received HELLO
+2021-05-03 18:49:55 | [INFO]    | Shard 0 : Received READY
+2021-05-03 18:50:06 | [INFO]    | Discordia 2.8.4
+2021-05-03 18:50:06 | [INFO]    | Connecting to Discord...
+2021-05-03 18:50:06 | [INFO]    | Authenticated as Daemen#5143
+2021-05-03 18:50:06 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-05-03 18:50:06 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-05-03 18:50:06 | [INFO]    | Shard 0 : Received HELLO
+2021-05-03 18:50:07 | [INFO]    | Shard 0 : Received READY
+2021-05-03 18:50:10 | [ERROR]   | 400 - Bad Request : POST https://discord.com/api/v7/channels/828958185729032225/messages
+2021-05-03 18:50:11 | [ERROR]   | 400 - Bad Request : POST https://discord.com/api/v7/channels/828958185729032225/messages
+2021-05-03 18:50:11 | [ERROR]   | 400 - Bad Request : POST https://discord.com/api/v7/channels/828958185729032225/messages
+2021-05-03 18:50:12 | [ERROR]   | 400 - Bad Request : POST https://discord.com/api/v7/channels/828958185729032225/messages
+2021-05-03 18:50:12 | [ERROR]   | 400 - Bad Request : POST https://discord.com/api/v7/channels/828958185729032225/messages
+2021-05-03 18:50:16 | [ERROR]   | 400 - Bad Request : POST https://discord.com/api/v7/channels/828958185729032225/messages
+2021-05-03 18:50:16 | [ERROR]   | 400 - Bad Request : POST https://discord.com/api/v7/channels/828958185729032225/messages
+2021-05-03 18:50:41 | [INFO]    | Discordia 2.8.4
+2021-05-03 18:50:41 | [INFO]    | Connecting to Discord...
+2021-05-03 18:50:42 | [INFO]    | Authenticated as Daemen#5143
+2021-05-03 18:50:42 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-05-03 18:50:42 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-05-03 18:50:42 | [INFO]    | Shard 0 : Received HELLO
+2021-05-03 18:50:42 | [INFO]    | Shard 0 : Received READY
+2021-05-03 18:50:45 | [ERROR]   | 400 - Bad Request : POST https://discord.com/api/v7/channels/828958185729032225/messages
+2021-05-03 18:50:45 | [ERROR]   | 400 - Bad Request : POST https://discord.com/api/v7/channels/828958185729032225/messages
+2021-05-03 18:50:45 | [ERROR]   | 400 - Bad Request : POST https://discord.com/api/v7/channels/828958185729032225/messages
+2021-05-03 18:50:46 | [ERROR]   | 400 - Bad Request : POST https://discord.com/api/v7/channels/828958185729032225/messages
+2021-05-03 18:50:46 | [ERROR]   | 400 - Bad Request : POST https://discord.com/api/v7/channels/828958185729032225/messages
+2021-05-03 18:50:50 | [ERROR]   | 400 - Bad Request : POST https://discord.com/api/v7/channels/828958185729032225/messages
+2021-05-03 18:50:50 | [ERROR]   | 400 - Bad Request : POST https://discord.com/api/v7/channels/828958185729032225/messages
+2021-05-03 18:52:47 | [INFO]    | Discordia 2.8.4
+2021-05-03 18:52:47 | [INFO]    | Connecting to Discord...
+2021-05-03 18:52:47 | [INFO]    | Authenticated as Daemen#5143
+2021-05-03 18:52:47 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-05-03 18:52:47 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-05-03 18:52:47 | [INFO]    | Shard 0 : Received HELLO
+2021-05-03 18:52:47 | [INFO]    | Shard 0 : Received READY
+2021-05-03 18:52:53 | [ERROR]   | 400 - Bad Request : POST https://discord.com/api/v7/channels/828958185729032225/messages
+2021-05-03 18:52:53 | [ERROR]   | 400 - Bad Request : POST https://discord.com/api/v7/channels/828958185729032225/messages
+2021-05-03 18:52:53 | [ERROR]   | 400 - Bad Request : POST https://discord.com/api/v7/channels/828958185729032225/messages
+2021-05-03 18:52:54 | [ERROR]   | 400 - Bad Request : POST https://discord.com/api/v7/channels/828958185729032225/messages
+2021-05-03 18:52:54 | [ERROR]   | 400 - Bad Request : POST https://discord.com/api/v7/channels/828958185729032225/messages
+2021-05-03 18:53:16 | [INFO]    | Discordia 2.8.4
+2021-05-03 18:53:16 | [INFO]    | Connecting to Discord...
+2021-05-03 18:53:17 | [INFO]    | Authenticated as Daemen#5143
+2021-05-03 18:53:17 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-05-03 18:53:17 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-05-03 18:53:17 | [INFO]    | Shard 0 : Received HELLO
+2021-05-03 18:53:17 | [INFO]    | Shard 0 : Received READY
+2021-05-03 18:54:08 | [INFO]    | Discordia 2.8.4
+2021-05-03 18:54:08 | [INFO]    | Connecting to Discord...
+2021-05-03 18:54:08 | [INFO]    | Authenticated as Daemen#5143
+2021-05-03 18:54:08 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-05-03 18:54:09 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-05-03 18:54:09 | [INFO]    | Shard 0 : Received HELLO
+2021-05-03 18:54:09 | [INFO]    | Shard 0 : Received READY
+2021-05-03 18:54:44 | [INFO]    | Discordia 2.8.4
+2021-05-03 18:54:44 | [INFO]    | Connecting to Discord...
+2021-05-03 18:54:45 | [INFO]    | Authenticated as Daemen#5143
+2021-05-03 18:54:45 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-05-03 18:54:45 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-05-03 18:54:45 | [INFO]    | Shard 0 : Received HELLO
+2021-05-03 18:54:45 | [INFO]    | Shard 0 : Received READY
+2021-05-03 18:58:26 | [INFO]    | Discordia 2.8.4
+2021-05-03 18:58:26 | [INFO]    | Connecting to Discord...
+2021-05-03 18:58:27 | [INFO]    | Authenticated as Daemen#5143
+2021-05-03 18:58:27 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-05-03 18:58:27 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-05-03 18:58:27 | [INFO]    | Shard 0 : Received HELLO
+2021-05-03 18:58:27 | [INFO]    | Shard 0 : Received READY
+2021-05-03 18:58:51 | [INFO]    | Discordia 2.8.4
+2021-05-03 18:58:51 | [INFO]    | Connecting to Discord...
+2021-05-03 18:58:52 | [INFO]    | Authenticated as Daemen#5143
+2021-05-03 18:58:52 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-05-03 18:58:52 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-05-03 18:58:52 | [INFO]    | Shard 0 : Received HELLO
+2021-05-03 18:58:52 | [INFO]    | Shard 0 : Received READY
+2021-05-03 19:02:00 | [INFO]    | Discordia 2.8.4
+2021-05-03 19:02:00 | [INFO]    | Connecting to Discord...
+2021-05-03 19:02:01 | [INFO]    | Authenticated as Daemen#5143
+2021-05-03 19:02:01 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-05-03 19:02:01 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-05-03 19:02:01 | [INFO]    | Shard 0 : Received HELLO
+2021-05-03 19:02:01 | [INFO]    | Shard 0 : Received READY
+2021-05-03 19:02:41 | [INFO]    | Discordia 2.8.4
+2021-05-03 19:02:41 | [INFO]    | Connecting to Discord...
+2021-05-03 19:02:42 | [INFO]    | Authenticated as Daemen#5143
+2021-05-03 19:02:42 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-05-03 19:02:42 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-05-03 19:02:42 | [INFO]    | Shard 0 : Received HELLO
+2021-05-03 19:02:46 | [WARNING] | Shard 0 : 4000 - Unknown error.
+2021-05-03 19:02:46 | [INFO]    | Shard 0 : Disconnected
+2021-05-03 19:02:46 | [INFO]    | Shard 0 : Reconnecting after 944 ms...
+2021-05-03 19:02:48 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-05-03 19:02:48 | [INFO]    | Shard 0 : Received HELLO
+2021-05-03 19:02:50 | [INFO]    | Shard 0 : Received READY
+2021-05-03 19:03:27 | [INFO]    | Discordia 2.8.4
+2021-05-03 19:03:27 | [INFO]    | Connecting to Discord...
+2021-05-03 19:03:28 | [INFO]    | Authenticated as Daemen#5143
+2021-05-03 19:03:28 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-05-03 19:03:28 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-05-03 19:03:28 | [INFO]    | Shard 0 : Received HELLO
+2021-05-03 19:03:28 | [INFO]    | Shard 0 : Received READY

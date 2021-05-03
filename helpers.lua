@@ -65,3 +65,22 @@ end
 function _G.Daemen.Functions.MakeSafe(str)
     return str:gsub("[`@]", "")
 end
+
+-- Parses time, used in the reminder module
+function _G.Daemen.Functions.ParseHumanTime(str)
+    str = str:lower()
+
+    -- should accept d, day, days for each unit 
+    local acceptedTimes = {"second", "minute", "hour", "day"}
+    
+    for _, unit in pairs(acceptedTimes) do
+        -- Normal unit, first letter or plural
+        if str == unit or str == unit:sub(1,1) or str == unit.."s" then
+            return unit
+        end
+    end
+    return false
+end
+function _G.Daemen.Functions.firstToUpper(str)
+    return (str:gsub("^%l", string.upper))
+end
