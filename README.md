@@ -6,7 +6,8 @@
 
 ### Features
 * Moderator Commands
-* Memes
+* General Use Commands
+* Commands used for various different APIs
 
 ### Commands
 | Name | Usage | Description |
