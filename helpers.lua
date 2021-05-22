@@ -44,7 +44,13 @@ end
 -- Load commands
 _G.Daemen.Commands = {}
 function _G.Daemen.Functions.AddCommand(cmd, callback, args, aliases)
-    _G.Daemen.Commands[_G.Daemen.Settings.Prefix..cmd] = {callback, args, aliases or {}}
+    local prefix = _G.Daemen.Settings.Prefix
+    _G.Daemen.Commands[prefix..cmd] = {callback, args}
+    if aliases and #aliases > 0 then
+        for _, alias in ipairs(aliases) do
+            _G.Daemen.Commands[prefix..alias] = _G.Daemen.Commands[prefix..cmd]
+        end
+    end
 end
 
 
