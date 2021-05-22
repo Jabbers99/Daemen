@@ -24,7 +24,7 @@ AddCommand("remind", function(msg, args)
 			_G.Daemen.Reminders[msg.author.id] = _G.Daemen.Reminders[msg.author.id] + 1
 			if _G.Daemen.Reminders[msg.author.id] >= 3 then _G.Daemen.Reminders[msg.author.id] = nil end
 		end)
-		chnl:sendf("%s, in %s: `%s`, msg.mentionString, delay, reminder)
+		chnl:sendf("%s, in %s: `%s`", msg.mentionString, delay, reminder)
 	else
 		msg:reply("You already have three set reminders: "..reminder)
 	end
